@@ -1,0 +1,14 @@
+location:
+  address: 243 Flemington Rd, North Melbourne VIC 3051
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.848234950951!2d144.94686099999998!3d-37.7935963!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d242ff638f3%3A0x65b7b462f3c4d345!2sThyme%20Square%20Caf%C3%A9!5e0!3m2!1sen!2sau!4v1664429902426!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: http://facebook.com/thyme2
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(03) 8590 6865
